@@ -34,8 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live](https://tengxuanp.github.io/faq-accordion-card/)
 
 ## My process
 
@@ -66,6 +65,5 @@ The project is not perfect yet, I will continue to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tengxuanp)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Raphael Pang](https://tengxuanp.github.io/faq-accordion-card/)
+- Frontend Mentor - [@tengxuanp](https://www.frontendmentor.io/profile/tengxuanp)
