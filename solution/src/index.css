@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font-family: 'Kumbh Sans', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+
+:root{
+
+/* Text */
+--vddBlue:hsl(238, 29%, 16%);
+--sRed:hsl(14, 88%, 65%);
+
+/* Background Gradient */
+--sViolet:hsl(273, 75%, 66%);
+--sBlue:hsl(240, 73%, 65%);
+
+/* Text */
+--vdgBlue:hsl(237, 12%, 33%);
+--dgBlue:hsl(240, 6%, 50%);
+
+/* Divider */
+--lgBlue:hsl(240, 5%, 91%);
+
+}
+
+@layer base{
+    html{
+     font-family:'Kumbh Sans', sans-serif;
+    }
+    body{
+        background-image:linear-gradient(to bottom, var(--sViolet), var(--sBlue));
+        background-repeat: no-repeat;
+        min-height: calc(100vh - 0.1px)
+    }
+
+    .faq .answer{
+        color:var(--dgBlue);
+    }
+
+}
+
